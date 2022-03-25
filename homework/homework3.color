@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+button {
+  padding: 7px 14px;
+  background-color: LightSeaGreen;
+  border: 0px black soild;
+  color: white;
+  border-radius: 7px;
+  }
+  
+  .primary {
+  background-color:MidnightBlue;
+  }
+  
+  .secondary {
+  background-color:MediumTurquoise;
+  }
+  
+  .success {
+  background-color:MediumSeaGreen;
+  }
+  
+  .danger {
+  background-color:OrangeRed;
+  }
+  
+  .warming {
+  background-color:Moccasin;
+  color: black;
+  }
+  
+  .info {
+  background-color:HotPink;
+  }
+  
+}
+</style>
+</head>
+<body>
+
+<button class="primary">Primary</button>
+<button class="secondary">Secondary</button>
+<button class="success">Success</button>
+<button class="danger">Danger</button>
+<button class="warming">Warning</button>
+<button class="info">Info</button>
+
+</body>
+</html>
