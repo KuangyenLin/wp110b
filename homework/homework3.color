@@ -5,33 +5,33 @@
 button {
   padding: 7px 14px;
   background-color: LightSeaGreen;
-  border: 0px black soild;
+  border: 1px black soild;
   color: white;
   border-radius: 7px;
   }
   
-  .primary {
+  .A {
   background-color:MidnightBlue;
   }
   
-  .secondary {
+  .B {
   background-color:MediumTurquoise;
   }
   
-  .success {
+  .C {
   background-color:MediumSeaGreen;
   }
   
-  .danger {
+  .D {
   background-color:OrangeRed;
   }
   
-  .warming {
+  .E {
   background-color:Moccasin;
   color: black;
   }
   
-  .info {
+  .F {
   background-color:HotPink;
   }
   
@@ -40,12 +40,12 @@ button {
 </head>
 <body>
 
-<button class="primary">Primary</button>
-<button class="secondary">Secondary</button>
-<button class="success">Success</button>
-<button class="danger">Danger</button>
-<button class="warming">Warning</button>
-<button class="info">Info</button>
+<button class="A">A</button>
+<button class="B">B</button>
+<button class="C">D</button>
+<button class="D">D</button>
+<button class="E">E</button>
+<button class="F">D</button>
 
 </body>
 </html>
